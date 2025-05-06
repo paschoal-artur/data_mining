@@ -1,2 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-fakeTelegram_BR_2022.csv filter=lfs diff=lfs merge=lfs -text
+task2/data/fakeTelegram_BR_2022.csv filter=lfs diff=lfs merge=lfs -text
